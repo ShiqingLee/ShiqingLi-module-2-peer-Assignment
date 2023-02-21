@@ -1,2 +1,1 @@
-# ShiqingLi-module-2-peer-Assignment
-This is my peer review assignment
+# ShiqingLi-capstone peer evaluation project
