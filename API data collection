@@ -1,0 +1,4 @@
+spacex_url="https://api.spacexdata.com/v4/launches/past"
+response = requests.get(spacex_url)
+# Use json_normalize meethod to convert the json result into a dataframe
+data = pd.json_normalize(response.json())
